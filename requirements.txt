@@ -1,0 +1,4 @@
+qiskit==1.0.2
+qiskit-aer==0.14.0.1
+streamlit==1.33.0
+matplotlib==3.8.4
